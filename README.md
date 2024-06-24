@@ -13,13 +13,13 @@ Technologies Used
 
 Installation
 Clone the repository:
-git clone https://github.com/yourusername/rick-and-morty-ios-app.git
+* git clone https://github.com/yourusername/rick-and-morty-ios-app.git
 Navigate to the project directory:
-cd rick-and-morty-ios-app
+* cd rick-and-morty-ios-app
 Open the project in Xcode:
-open RickAndMorty.xcodeproj
+* RickAndMorty.xcodeproj
 Install dependencies using CocoaPods:
-pod install
+* pod install
 Build and run the app on your simulator or device.
 Usage
 Launch the app to view a collection of characters from the Rick and Morty universe.
