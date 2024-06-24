@@ -11,22 +11,6 @@ Technologies Used
 * Swift
 * UIKit
 
-Installation
-Clone the repository:
-* git clone https://github.com/yourusername/rick-and-morty-ios-app.git
-Navigate to the project directory:
-* cd rick-and-morty-ios-app
-Open the project in Xcode:
-* RickAndMorty.xcodeproj
-Install dependencies using CocoaPods:
-* pod install
-Build and run the app on your simulator or device.
-Usage
-Launch the app to view a collection of characters from the Rick and Morty universe.
-Use the search bar to find characters by name.
-Apply filters to narrow down the list of characters based on status, species, and gender.
-Tap on a character to view detailed information.
-Contributing
 Contributions are welcome! Please fork this repository, make your changes, and submit a pull request.
 
 License
